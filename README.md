@@ -1,18 +1,43 @@
-# 💫 About Me:
-I am Harshal Navale. I currently pursuing Diploma in Information Technology focused on building real-world.<br>I work with Python, Java, SQL (Oracle), and C/C++,HTML,data-driven problem solving, Al and ML.
+<h1 align="center">Hi 👋, I'm Harshal Navale</h1>
+<h3 align="center">A passionate Data Analytics and IT student from India 🇮🇳</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshal45_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navaleharshal4545@gmail.com) 
-
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshalNavale45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarshalNavale45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalNavale45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Data+Analyst+Enthusiast;Python+%26+SQL+Developer;Tech+Explorer+%26+Builder" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HarshalNavale45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+- 🎓 I am currently pursuing my **Diploma in Information Technology** (2nd Year) at *Amrutvahini Polytechnic, Sangamner*.
+- 📊 I am passionately building my foundation to become a **Data Analyst**. I love extracting hidden insights from heavy datasets.
+- 💡 Currently working hands-on with visualization tools like **Power BI** and **Tableau**.
+- 🌱 My main focus right now is learning new technologies, building impactful portfolio projects (like predictive AI & data pipelines), and strengthening my resume for internships.
+- 🤝 Let's connect! I'm always open to discussing tech, data, and career development.
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=HarshalNavale45&show_icons=true&theme=radium&hide_border=true" alt="Harshal's GitHub Stats" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalNavale45&theme=radium&hide_border=true" alt="Harshal's Contribution Streak" width="48%">
+</p>
+
+### 📫 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/harshal-navale-a3882a383" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Harshal Navale LinkedIn" /></a>
+<a href="https://github.com/HarshalNavale45" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Harshal Navale GitHub" /></a>
+</p>
+
