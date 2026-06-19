@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 I am currently pursuing my **Diploma in Information Technology** (2nd Year) at *Amrutvahini Polytechnic, Sangamner*.
+- 🎓 I am currently pursuing my **Diploma in Information Technology** (3rd Year) at *Amrutvahini Polytechnic, Sangamner*.
 - 📊 I am passionately building my foundation to become a **Data Analyst**. I love extracting hidden insights from heavy datasets.
 - 💡 Currently working hands-on with visualization tools like **Power BI** and **Tableau**.
 - 🌱 My main focus right now is learning new technologies, building impactful portfolio projects (like predictive AI & data pipelines), and strengthening my resume for internships.
